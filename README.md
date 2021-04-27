@@ -33,11 +33,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-### Pretenções para o projeto:
-Realizar toda a análise das tabelas geradas através de Python, R, ou JavaScript
-
-<br>
-
 ### License:
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
